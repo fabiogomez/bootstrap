@@ -7,6 +7,9 @@ def run():
 def hola()
     print("Hola")
 
+def hola2()
+    print("Hola2")
+
 
 if __name__ == '__main__':
     run()
