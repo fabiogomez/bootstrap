@@ -4,12 +4,11 @@ def run():
     print(divisors(int(num)))
     print("Terminó mi programa")
 
-def divisors(num):
-    divisors = []
-    for i in range(1, num + 1):
-        if num % i == 0:
-            divisors.append(i)
-    return divisors
+def hola()
+    print("Hola")
+
+def hola2()
+    print("Hola2")
 
 
 if __name__ == '__main__':
